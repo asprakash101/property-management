@@ -9,8 +9,6 @@ First Time Git & Github Setup
 6. git push --set-upstream origin master
 
 
-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
-
 ======================================
 
 
