@@ -5,7 +5,7 @@ First Time Git & Github Setup
 2. git add .
 3. git commit -m "any message"
 4. git remote add origin https://github.com/asprakash101/property-management.git
-5. git remote set-url origin https://asprakash101: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@github.com/asprakash101/property-management.git
+5. git remote set-url origin https://asprakash101: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@github.com/asprakash101/property-management.git
 6. git push --set-upstream origin master
 
 
@@ -16,7 +16,7 @@ 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
 
 Subsequent Iteration Commands
 
-==============================
+======================================
 1. git pull
 2. git add .
 3. git status
