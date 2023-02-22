@@ -1,3 +1,6 @@
+First Time Git & Github Setup
+======================================
+
 1. git init
 2. git add .
 3. git commit -m "any message"
@@ -7,3 +10,15 @@
 
 
 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
+
+======================================
+
+
+Subsequent Iteration Commands
+
+======================================
+1. git pull
+2. git add .
+3. git status
+4. git commit -m "some message"
+5. git push
