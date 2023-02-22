@@ -29,6 +29,7 @@ public class PropertyController {
     @GetMapping("/hello")
     public String sayHello(){
 
+        System.out.println("Inside the dev branch");
         System.out.println(dummy);
 //        System.out.println(localDummy);
         System.out.println(dbURL);
